@@ -18,5 +18,4 @@ fun main(){
     println("$g : Long Constant")
     println("$h : Byte Variable")
     println("$i : Short Variable")
-
 }
