@@ -1,7 +1,8 @@
 <h1>MAD_Practical: 1_21012011049</h1>
+
 1. Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 
-    <img src="https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c419a351-5d73-477c-8820-43a3bc1660fb" width="300" height="300">
+   <img src="https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c419a351-5d73-477c-8820-43a3bc1660fb" width="300" height="300"> 
    
 3. Type conversion: Integer to Double, String to Integer, String to Double.
    
@@ -46,7 +47,7 @@
 
 22.  Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
     
-  <img src="https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/8387217a-56a8-4244-97ea-49f010d7719f" width="300" height="400">  <img src="https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/576d45fe-96f8-4ffa-8ca5-a15cc263db39" width="300" height="400"> 
+      <img src="https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/8387217a-56a8-4244-97ea-49f010d7719f" width="300" height="400">  <img src="https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/576d45fe-96f8-4ffa-8ca5-a15cc263db39" width="300" height="400"> 
    
 
 
