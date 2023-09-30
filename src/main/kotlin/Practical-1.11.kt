@@ -1,27 +1,24 @@
 fun main() {
     println("21012011049_Meha Bhatt\n")
-    val firstMatrix = Matrix(arrayOf(intArrayOf(2,-4,3), intArrayOf(6,0,5)),2,3)
-    val secondMatrix = Matrix(arrayOf(intArrayOf(7,3),intArrayOf(0,-4),
-        intArrayOf(1,3)),3,2)
-    val secondMatrix1 = Matrix(arrayOf(intArrayOf(5,3), intArrayOf(0,4),
-        intArrayOf(5,9)),3,2)
+    val firstMatrix = Matrix(arrayOf(intArrayOf(2,-4,3), intArrayOf(6,0,5), intArrayOf(3,7,5)),3,3)
+    val secondMatrix = Matrix(arrayOf(intArrayOf(7,3,5),intArrayOf(0,-4,7), intArrayOf(1,3,6)),3,3)
     println("********** Addition **********")
     println("Matrix:1 ")
-    print(secondMatrix1.toString())
+    print(firstMatrix.toString())
     println("Matrix:2 ")
     print(secondMatrix.toString())
-    val thirdMatrix = secondMatrix1 + secondMatrix
+    val thirdMatrix = firstMatrix + secondMatrix
     println("Addition: \n$thirdMatrix")
     println("********** Subtraction **********")
     println("Matrix:1 ")
-    print(secondMatrix1)
+    print(firstMatrix)
     println("Matrix:2 ")
     print(secondMatrix)
-    val subtractMatrix = secondMatrix1 - secondMatrix
+    val subtractMatrix = firstMatrix - secondMatrix
     println("Subtraction: \n$subtractMatrix")
     println("********** Multiplication **********")
     println("Matrix:1 ")
-    print(secondMatrix1.toString())
+    print(firstMatrix.toString())
     println("Matrix:2 ")
     print(secondMatrix.toString())
     val multiplication = firstMatrix * secondMatrix
@@ -75,7 +72,7 @@ class Matrix(matrix: Array<IntArray>,i:Int,j:Int){
 
         for(row in matrix.indices){
             for(column in 0 until matrix[row].size){
-                msg += "${matrix[row][column]}   "
+                msg += "${matrix[row][column]} "
             }
             msg += "\n"
         }
