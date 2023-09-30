@@ -9,10 +9,12 @@ MAD_Practical: 1_21012011049
 
 
 5. Scan student’s information and display all the data.
+   
    ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/e8b7fd40-3b67-4dff-8229-b23c4885b27e)
 
 
 7. Find the number is odd or even by using Control Flow inside println() method.
+   
    ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c2ecc760-a0ac-4cbf-b7da-ed833a652f7b) ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/59b01884-b216-477a-8cc6-78c8c37e3d64)
 
 9. Display month name using When
