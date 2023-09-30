@@ -19,12 +19,15 @@ MAD_Practical: 1_21012011049
    ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c2ecc760-a0ac-4cbf-b7da-ed833a652f7b) ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/59b01884-b216-477a-8cc6-78c8c37e3d64)
 
 9. Display month name using When
+    
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/e2fd0c70-c7bb-47c6-8ae7-ce0d260ab174)
    
 11. By using a user defined function perform all arithmetic operations.
+    
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c3083177-21f9-4e18-9a9d-336b9a5619c5)
 
 13. Find the factorial of number by recursion. Explain "tailrec" keyword.
+    
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c3772619-36b5-4d44-a1a4-f0909bb7aeb9)
 
 15. Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function.
