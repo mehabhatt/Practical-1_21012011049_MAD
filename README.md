@@ -19,6 +19,7 @@ MAD_Practical: 1_21012011049
    ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c2ecc760-a0ac-4cbf-b7da-ed833a652f7b) ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/59b01884-b216-477a-8cc6-78c8c37e3d64)
 
 9. Display month name using When
+
     
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/e2fd0c70-c7bb-47c6-8ae7-ce0d260ab174)
    
@@ -37,10 +38,14 @@ MAD_Practical: 1_21012011049
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/cdd62798-e44d-425e-9d85-ee17f159587f)
 
 19.  Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
+
+    
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/98c0f3d6-cb4a-4174-9bf3-116541cf859b)
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/4e1269db-e2c9-4aea-83fe-5d8cd5f790e3)
 
 21.  Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
+
+    
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/32856a00-cd3c-40af-aaf6-f4f10d3fb6b7)
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/64c09a5c-e407-4ac7-9ba5-e3284ba6d98a)
 
