@@ -4,6 +4,7 @@ MAD_Practical: 1_21012011049
 
 
 3. Type conversion: Integer to Double, String to Integer, String to Double.
+   
    ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/6fab9d7b-1e0c-4030-b874-f28a06d542a9)
 
 
@@ -37,7 +38,6 @@ MAD_Practical: 1_21012011049
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/cdd62798-e44d-425e-9d85-ee17f159587f)
 
 19.  Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
-20. 
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c5fe938c-77c3-45cd-8149-86218a313a67)
     
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c87d8a39-7e6e-4390-82e6-d776d42aed86)
