@@ -42,6 +42,10 @@ MAD_Practical: 1_21012011049
     ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c5fe938c-77c3-45cd-8149-86218a313a67)  ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/c87d8a39-7e6e-4390-82e6-d776d42aed86)
 
 22.  Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
+23.  ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/8387217a-56a8-4244-97ea-49f010d7719f)
+24.  ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/576d45fe-96f8-4ffa-8ca5-a15cc263db39)
+
+
 
     
 
