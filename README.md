@@ -4,6 +4,7 @@ MAD_Practical: 1_21012011049
 
 
 3. Type conversion: Integer to Double, String to Integer, String to Double.
+
    
    ![image](https://github.com/mehabhatt/Practical-1_21012011049_MAD/assets/98047777/6fab9d7b-1e0c-4030-b874-f28a06d542a9)
 
